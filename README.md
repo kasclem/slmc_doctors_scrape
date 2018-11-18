@@ -2,7 +2,7 @@
 A web scraper for https://doctorsdirectory.stlukesmedicalcenter.com.ph/index.html
 
 
-##Setup
+Setup
 1. $ pip install Scrapy
 2. $ pip install requests
 3. run main.py
